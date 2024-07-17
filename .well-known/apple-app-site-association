@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "YOUR_TEAM_ID.com.mld.rayv",
+        "appID": "G78FJ5CS5T.com.mld.rayv",
         "paths": [ "/home", "/ticket/*", "/cart", "/editEvent" ]
       }
     ]
