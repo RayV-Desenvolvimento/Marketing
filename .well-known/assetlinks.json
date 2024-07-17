@@ -1,13 +1,11 @@
 [
     {
-        "relation": ["delegate_permission/common.handle_all_urls"],
-        "target": {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
         "namespace": "android_app",
-        "package_name": "com.mld.rayv",
-        "sha256_cert_fingerprints": [
-            "YOUR_APP_SHA256_CERT_FINGERPRINT"
-        ]
+        "package_name": "com.rayv.android",
+        "sha256_cert_fingerprints":
+          ["05:CE:AA:06:6A:C7:15:0A:AF:6E:FB:05:2E:17:A9:30:3D:F9:B7:CF:28:3D:0C:D4:DF:E8:47:11:9A:BD:40:A7"]
         }
     }
-]
-  
+]  
