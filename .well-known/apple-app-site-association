@@ -3,9 +3,28 @@
     "apps": [],
     "details": [
       {
-        "appID": "G78FJ5CS5T.com.mld.rayv",
-        "paths": [ "/home", "/ticket/*", "/cart", "/editEvent" ]
+        "appIDs": [ "G78FJ5CS5T.com.mld.rayv" ], 
+        "components": [
+          { 
+            "/": "/home"
+          },
+          { 
+            "/": "/ticket/*"
+          },
+          { 
+            "/": "/cart"
+          },
+          { 
+            "/": "/editEvent"
+          }
+        ]
       }
     ]
+  },
+  "activitycontinuation": {
+    "apps": ["G78FJ5CS5T.com.mld.rayv"]
+  },
+  "webcredentials": {
+    "apps": ["G78FJ5CS5T.com.mld.rayv"]
   }
 }
